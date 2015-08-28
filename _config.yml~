@@ -91,6 +91,8 @@ follow:
 #Links
 customLinks:
   - item:
+    - text: 掌心
+      url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
@@ -118,7 +120,7 @@ baseurl: /MyBlog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 求阙斋
+title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: zhengb087
