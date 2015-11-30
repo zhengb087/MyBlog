@@ -1,0 +1,5 @@
+
+git add .表示添加当前目录下的所有文件
+git commit -am "message" 表示提交所有更改，这是提交到本地，”message” 换成自己的注释信息
+git push 把在本地的更改提交到远程服务器
+
